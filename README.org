@@ -3,8 +3,7 @@
 Common Lisp implementation of various AI/statistics related things.
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/melisgl/micmac.git   |
-| commit  | a863aa1  |
-| systems | micmac |
+| source  | git:https://github.com/melisgl/micmac.git |
+| commit  | aaf7979                                   |
+| systems | micmac                                    |
 |---------+-------------------------------------------|
-
