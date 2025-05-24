@@ -4,6 +4,6 @@ Common Lisp implementation of various AI/statistics related things.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/melisgl/micmac.git |
-| commit  | aaf7979                                   |
+| commit  | cffabdc                                   |
 | systems | micmac                                    |
 |---------+-------------------------------------------|
